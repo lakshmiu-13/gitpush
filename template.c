@@ -4,7 +4,10 @@ add()
 {
   printf("addition of two numbers")
     }
-sub();
+sub()
+{
+  printf("subraction of two numbers")
+    }
 mul();
 div();
 }
